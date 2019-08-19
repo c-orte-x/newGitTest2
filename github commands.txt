@@ -19,4 +19,5 @@ git (gives all commands)
 
 git branch -a (shows all branches)
 git checkout BRANCHNAME (swaps branches)
+git push origin BRANCHNAME
 git merge BRANCHNAME (merges branch with master branch)
