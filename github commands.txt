@@ -1,0 +1,22 @@
+download git
+download github
+make github account
+
+cmd -->
+dir : get current directory
+cd .. go up one dir
+cd Documents
+
+git command -->
+git clone URL
+git status
+git add *name* OR . will add all
+git commit  (-m will add message)
+git push
+git pull
+
+git (gives all commands)
+
+git branch -a (shows all branches)
+git checkout BRANCHNAME (swaps branches)
+git merge BRANCHNAME (merges branch with master branch)
